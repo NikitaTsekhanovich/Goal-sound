@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e444d21f4ad108b40966aaf6d2a383bf, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  _index: 5
+  _spriteIcon: {fileID: 21300000, guid: 8404e9a6d063cd040af52ec2014d8f99, type: 3}
+  _sound: {fileID: 8300000, guid: 79b73904374465543bf167e18fe2d2b9, type: 3}
+  _description: Sound of boots brushing against the turf during a kick in football

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e444d21f4ad108b40966aaf6d2a383bf, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  _index: 8
+  _spriteIcon: {fileID: 21300000, guid: 8b3a92c08b5a59e49a5fe37e3e57211b, type: 3}
+  _sound: {fileID: 8300000, guid: 9903e343a93863f42a9e76981976b374, type: 3}
+  _description: People cheering when someone scores a goal
