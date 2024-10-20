@@ -2,6 +2,11 @@
 
 # Описание
 
+Простое приложение, в котором есть звуки связанные с футболом.
+
+# Особенности
+Все данные представлены в scriptable object, что позволяет не писать новый код и создавать через редактор другие элементы со звуками.
+
 # Скриншоты
 ![Image Sequence_003_0000](https://github.com/user-attachments/assets/64735ada-4fae-4035-9a0e-ad894fd8ab11)
 ![Image Sequence_002_0000](https://github.com/user-attachments/assets/36777462-c7c3-489e-995d-ce3cb9c76f0a)
